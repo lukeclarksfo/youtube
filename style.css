@@ -3,6 +3,11 @@ body
   margin: 50px 20% 0 20%;
 }
 
+#main
+{
+  padding: 0 0 20px 0;
+}
+
 #player
 {
   width: 600px;
