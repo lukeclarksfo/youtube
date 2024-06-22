@@ -1,8 +1,23 @@
-#progress
+#player
+{
+  width: 400px;
+}
+#buttons
 {
   background: #000;
-  width:400px;
+  width: 100%;
   height:30px;
+}
+#timebar
+{
+  width: 100%;
+  height: 5px;
+}
+#progress
+{
+  background: #028;
+  width: 100%;
+  height: 5px;
 }
 video
 {
