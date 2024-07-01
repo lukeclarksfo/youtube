@@ -1,6 +1,6 @@
-## Youtube Video Player
+## YouTube Video Player
 
 See the project here
 
-[Pages
+[Player
 ](//lukeclarksfo.github.io/youtube/)
