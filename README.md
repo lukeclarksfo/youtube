@@ -1,4 +1,4 @@
-Copy of Youtube Video Player
+## Youtube Video Player
 
-[lukeclarksfo.github.io/youtube/
-](https://lukeclarksfo.github.io/youtube/)
+See the project here [lukeclarksfo.github.io/youtube/
+](Pages)
