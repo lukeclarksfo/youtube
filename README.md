@@ -1,4 +1,4 @@
 ## Youtube Video Player
 
-See the project here [lukeclarksfo.github.io/youtube/
-](Pages)
+See the project here [Pages
+](//lukeclarksfo.github.io/youtube/)
