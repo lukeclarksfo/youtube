@@ -5,7 +5,8 @@
     <meta http-equiv="expires" content='0'> 
     <meta http-equiv="pragma" content='no-cache'>
     
-    <link rel="stylesheet" href="https://lukeclarksfo.github.io/youtube/style.css">
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
 </head>
 <body>
   <div id="main">
@@ -13,13 +14,33 @@
       <p>Started Jun 22 2024.</p>
       <p><a href="https://github.com/lukeclarksfo/youtube">GitHub</a></p>
   </div>
-  
-  <video controls></video>
-  <div id="player">
+ 
+  <div class="video-container paused">
+    <div class="video-controls-container">
+      <div class="timeline-container"></div>
+      <div class="controls">
+        <button class="play-pause-btn">
+          <svg class="play-icon" viewBox="0 0 24 24">
+            <path fill="currentColor" d="M8,5.14V19.14L19,12.14L8,5.14Z" />
+          </svg>
+          <svg class="pause-icon" viewBox="0 0 24 24">
+            <path fill="currentColor" d="M14,19H18V5H14M6,19H10V5H6V19Z" />
+          </svg>
+        </button>
+      </div>
+        
+
+      </div>
+      <video src="chris.mp4"></video>
+    </div>
+  </div>
+
+
+  <!--<div id="player">
     <div id="timebar">
         <div id="progress"></div>
     </div>
     <div id="buttons"></div>
-  </div>
+  </div>-->
 </body>
 </html>
