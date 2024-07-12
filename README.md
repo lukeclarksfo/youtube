@@ -1,6 +1,5 @@
-## YouTube Player
+# YouTube Player
 
-See the project here
+See the project here.
 
-[Back to Website
-](//lukeclarksfo.github.io/youtube/)
+[Website](//lukeclarksfo.github.io/youtube/)
