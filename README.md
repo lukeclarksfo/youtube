@@ -1,4 +1,4 @@
-## YouTube Video Player
+## YouTube Player
 
 See the project here
 
