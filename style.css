@@ -250,14 +250,12 @@ video
 
 body
 {
-  margin: 50px 20% 0 20%;
   margin: 0;
   font-family:sans-serif;
 }
 a 
 {
   color: rgb(0,106,178);
-  font-weight: bold;
   text-decoration: none;
 }
 a:hover
