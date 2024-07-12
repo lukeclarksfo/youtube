@@ -2,5 +2,5 @@
 
 See the project here
 
-[Back to website
+[Back to GitHub Pages
 ](//lukeclarksfo.github.io/youtube/)
